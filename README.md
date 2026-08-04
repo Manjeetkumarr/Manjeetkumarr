@@ -48,7 +48,8 @@
 
 ## 🏆 Achievements
 
-* Participant – Edgistify Innovation Challenge 2025
+* STTP 2026 (MANIT Bhopal)
+* Cyber Hygiene Practices & Online Safety (ISEA, Miety)
 * Active Learner in Cybersecurity and Development
 * Building Practical Security Projects
 
