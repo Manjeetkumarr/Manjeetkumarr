@@ -19,8 +19,8 @@
 
 ## 🔗 Connect With Me
 - **LinkedIn:** [linkedin.com/in/imanjeetkumar](https://linkedin.com/in/imanjeetkumar)
-- **Twitter(X)** [x.com/iManjeetkumarr](https://x.com/iManjeetkumarr)
-- **Instagram** [instagram.com/i.manjeetkumar](https://www.instagram.com/i.manjeetkumar)
+- **Twitter(X):** [x.com/iManjeetkumarr](https://x.com/iManjeetkumarr)
+- **Instagram:** [instagram.com/i.manjeetkumar](https://www.instagram.com/i.manjeetkumar)
 - **Portfolio:** [manjeetkumarr.github.io](https://manjeetkumarr.github.io/MyPortfolio/)
 - **Resume:** [View My Resume](https://drive.google.com/file/d/1oVArrzd-2mN9Nub0W7yJYJsntXyzGUjO/view?usp=drive_link)
 - **Email:** [mk7241557@gmail.com](mailto:mk7241557@gmail.com)  
@@ -51,7 +51,6 @@
 * STTP 2026 (MANIT Bhopal)
 * Cyber Hygiene Practices & Online Safety (ISEA, Miety)
 * Active Learner in Cybersecurity and Development
-* 
 
 ---
 
