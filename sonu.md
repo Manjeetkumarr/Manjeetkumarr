@@ -1,76 +1,73 @@
-<h1 align="center">Hi 👋, I'm Sonu Kumawat</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Manjeet Kumar</h1>
+<h3 align="center"> Cyber Security & Ethical Hacking </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sonu%20Kumawat&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Manjeet%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
 </p>
 
 ---
 
-## 💫 About Me
-- 🎓 Computer Science student focused on building impactful real-world applications  
-- 🚀 Full Stack & Flutter Developer with hands-on project development experience  
-- 🤖 Exploring AI-driven solutions and modern scalable systems  
-- 🎯 Actively seeking opportunities to apply skills and grow as a developer  
+## 🚀 About Me
+
+🎓 3rd-Year B.Tech Student in Cyber Security <br>
+🏫 Government Engineering College Ajmer (BTU, Rajasthan) <br>
+💻 Passionate about Cyber Security, Ethical Hacking, and Open-Source Contributions <br>
+🌱 Currently learning Advanced Security Testing and Cloud Technologies <br>
+🔍 Interested in Vulnerability Assessment, Penetration Testing, and Secure Software Development <br>
+
+---
+
+## 🔗 Connect With Me
+- **LinkedIn:** [linkedin.com/in/imanjeetkumar](https://linkedin.com/in/imanjeetkumar)
+- **Twitter(X)** [x.com/iManjeetkumarr](https://x.com/iManjeetkumarr)
+- **Instagram** [instagram.com/i.manjeetkumar](https://www.instagram.com/i.manjeetkumar)
+- **Portfolio:** [manjeetkumarr.github.io](https://manjeetkumarr.github.io/MyPortfolio/)
+- **Resume:** [View My Resume](https://drive.google.com/file/d/1oVArrzd-2mN9Nub0W7yJYJsntXyzGUjO/view?usp=drive_link)
+- **Email:** [mk7241557@gmail.com](mailto:mk7241557@gmail.com)  
 
 ---
 
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> 
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> 
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> 
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> 
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> 
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" /> 
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" /> 
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> 
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" /> 
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" /> 
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /> 
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> 
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🏆 Achievements
 
-- 🤖 **Aura AI:** A smart personal life operating system managing tasks and daily planning using Flutter + Firebase.
-- 🎬 **Movie Ticket Booking System:** A complete, error-free Full-Stack Java application built from scratch following a solid MVC architecture.
-- 🛡️ **ScholarShield:** An AI/ML-powered cybersecurity platform designed to protect students from fake scholarship scams.
----
-
-## 🔗 Connect With Me
-- 💼 **LinkedIn:** [linkedin.com/in/sonukumawat](https://linkedin.com/in/sonukumawat)  
-- 🌐 **Portfolio:** [sonukumawat-sde.github.io](https://sonukumawat-sde.github.io/)
-- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1sAl4UaRybspcVKKuNYbdyAg9vrSu9okh/view?usp=drivesdk)
-- 📧 **Email:** [sonukumawat9216@gmail.com](mailto:sonukumawat9216@gmail.com)  
+* STTP 2026 (MANIT Bhopal)
+* Cyber Hygiene Practices & Online Safety (ISEA, Miety)
+* Active Learner in Cybersecurity and Development
+* 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-<p align="center">
+![](https://github-readme-stats.shion.dev/api?username=Manjeetkumarr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Manjeetkumarr&theme=dark&hide_border=false)<br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sonukumawat-sde&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-
-  <img src="https://streak-stats.demolab.com?user=sonukumawat-sde&theme=tokyonight" alt="GitHub Streak" />
-
-</p>
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumawat-sde&theme=tokyonight&layout=compact" alt="Top Languages" />
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Manjeetkumarr&label=Profile%20Views&color=00599C&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
+Feel free to explore my repositories, provide feedback, or collaborate on exciting projects.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonukumawat-sde&label=Profile%20Views&color=00599C&style=for-the-badge" alt="Profile Views" />
-</p>
-<h3 align="center">⭐ "Code. Build. Learn. Repeat." ⭐</h3>
+⭐ If you find my work interesting, consider giving a star to the repositories you like.
+
+### "Learning, Building, Securing, and Growing Every Day."
