@@ -50,7 +50,7 @@
 
 * STTP 2026 (MANIT Bhopal)
 * Cyber Hygiene Practices & Online Safety (ISEA, Miety)
-* Active Learner in Cybersecurity and Development
+* Active Learner in Cybersecurity
 
 ---
 
